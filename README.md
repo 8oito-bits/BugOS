@@ -1,3 +1,3 @@
 # BugOS
 
-O BugOS é Sistema Operacional para x86-64.
+O BugOS é Sistema Operacional de 32 bits.
