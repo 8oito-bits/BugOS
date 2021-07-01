@@ -4,6 +4,6 @@ Para rodar este Sistema Operacional em uma máquina real, é necessário mínimo
   - Processador Intel 80386 ou Am386 (AMD) ou superior;
   - 4MB de Memória RAM;
   - Uma placa de vídeo compatível com VGA; (640KB de VRAM mínimos)
-  - Um disco rígido não é necessário no momento. O BugOS será carregado na memória RAM;
+  - Um disco rígido não é necessário. O BugOS será carregado na memória RAM;
   
  
