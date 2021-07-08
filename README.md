@@ -10,3 +10,4 @@ Qualquer máquina física é capaz de executar este sistema nos dias atuais. Cla
 
 Para executar este sistema em uma **máquina virtual**, instale o QEMU (se ainda não o tiver instalado), e execute o comando
 `make run` na linha de comandos.
+
