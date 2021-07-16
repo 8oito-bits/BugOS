@@ -20,4 +20,4 @@ kernel.elf: $(OBJS)
 .PHONY: clean
 
 clean:
-	rm drivers/vga/*.o kernel/*.o kernel.elf
+	-rm drivers/*.o drivers/vga/*.o kernel/*.o kernel.elf

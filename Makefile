@@ -1,4 +1,4 @@
-.PHONY: kernel/kernel.elf
+.PHONY: kernel/kernel.elf BugOS.iso
 kernel/kernel.elf:
 	-make -C kernel/
 
