@@ -11,5 +11,5 @@ O BugOS é um Sistema Operacional de 32 bits para processadores Intel/AMD.
 Qualquer máquina física é capaz de executar este sistema nos dias atuais. Claro que a citação destes requerimentos é uma brincadeira. Nostalgia!
 
 Para executar este sistema em uma **máquina virtual**, instale o QEMU (se ainda não o tiver instalado), e execute o comando
-`make run` na linha de comandos.
+`make run` na linha de comando.
 
